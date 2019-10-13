@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="Emi_calculator">EMI Calculator</string>
+    <string name="Loan_type">Loan Type</string>
+    <string name="loan_amount">LoanAmount</string>
+    <string name="interest_type">Interest Type</string>
+    <string name="flat_type">Flat</string>
+    <string name="reduced_type">Reduced</string>
+    <string name="loan_tenure">Tenure(in years)</string>
+    <string name="calculate_emi">Click to calculate EMI</string>
+    <string name="calculated_emi">Calculated EMI</string>
+    <string name="emi_calculated">Calculated EMI</string>
+    <string name="calculated_interest">Total Interest</string>
+    <string name="amount_calculated">Total Amount</string>
+    <string name="new_EMI">Calculate another EMI</string>
+    <string name="rate_interest">Interest Rate</string>
+    <string-array name="loanArray">
+        <item>Home Loan</item>
+        <item>Vehicle Loan</item>
+        <item>Personal Loan</item>
+        <item>Education Loan</item>
+        <item>Business Loan</item>
+        <item>Gold Loan</item>
+    </string-array>
+
+</resources>
